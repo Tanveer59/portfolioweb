@@ -79,12 +79,27 @@ header nav a:hover {
     margin-top: 50px;
 }
 
-.loc{
-    width: 295px;
-    height: auto;
-    margin-left: 43px;
-    margin-top: 40px;
+.location-con{
+    left: 64px;
+    top: 24;
+
 }
+
+
+.location{
+    position: absolute;
+    left: 114px;
+    top: 619px;
+    color: #ffffff;
+
+}
+
+.vector-l{
+    position: absolute;
+    left: 64px;
+    top: 619px;
+}
+
 
 .active{
     background-color: #000000;
