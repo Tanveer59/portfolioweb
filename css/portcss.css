@@ -1,0 +1,93 @@
+body{
+    overflow: hidden;
+    background-color: black;
+}
+
+.back-g{
+    background-color: #000;
+}
+
+header{
+    background-color: #ffffff;
+    display: flex;
+    position: sticky;
+    top: 0;
+    transition: background-color 0.4s ease-in-out;
+    
+}
+
+header nav{
+    padding: 1.5em 0 1.5em 5em;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #000000;
+    text-transform: uppercase;
+    padding: 1.6em;
+    top: 0;
+    transition: background-color 0.4s ease-in-out;
+
+}
+
+header .scrolled nav a{
+    color: #000;
+}
+
+header nav a:hover {
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+
+
+
+.frame1{
+    margin: 40px 20px 60px 20px ;
+    width: 560px;
+    height: 696px;
+}
+
+.intro-text{
+    text-align: left;
+    margin-left: 64px;
+    margin-top: 64px;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 48px;
+    height: auto;
+    line-height: auto;
+}
+
+.email-icon{
+    margin-left: 64px;
+    margin-top: 120px;
+}
+
+.email{
+    margin-left: 120px;
+    margin-top: -20px;
+    color: #ffffff;
+}
+
+.number{
+    width: 476px;
+    height: 78px;
+    margin-left: 64px;
+    margin-top: 50px;
+}
+
+.loc{
+    margin-left: 43px;
+    margin-top: 40px;
+}
+
+.active{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.cool{
+    color: #A91079;
+}
