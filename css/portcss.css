@@ -82,6 +82,7 @@ header nav a:hover {
 .location-con{
     left: 64px;
     top: 24;
+    display: none;
 
 }
 
@@ -91,6 +92,7 @@ header nav a:hover {
     left: 114px;
     top: 650px;
     color: #ffffff;
+    display: none;
 
 }
 
@@ -98,6 +100,7 @@ header nav a:hover {
     position: absolute;
     left: 64px;
     top: 650px;
+    display: none;
 }
 
 
