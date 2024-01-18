@@ -1,6 +1,7 @@
 
 body{
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 #Header-sec{
     background-color: #F7EFE5;
